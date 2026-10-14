@@ -1,0 +1,254 @@
+[
+ {
+  "vp": 1440,
+  "r": "home",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "seedright/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "kernel-keeper/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "ride-tamer/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "about-davaus/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "support/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "contact/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "dealer-resources/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 1440,
+  "r": "404.html",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "home",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "seedright/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "kernel-keeper/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "ride-tamer/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "about-davaus/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "support/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "contact/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "dealer-resources/",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ },
+ {
+  "vp": 390,
+  "r": "404.html",
+  "icons": [
+   "200 image/x-icon favicon.ico?v=1",
+   "200 image/svg+xml favicon.svg?v=1",
+   "200 image/png favicon-32.png?v=1",
+   "200 image/png favicon-16.png?v=1",
+   "200 image/png apple-touch-icon.png?v=1"
+  ],
+  "errs": [],
+  "bad": [],
+  "sameAsLive": true
+ }
+]

@@ -1,0 +1,2116 @@
+[
+ {
+  "vp": "1440x900",
+  "route": "home",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "DAVAUS — Agricultural equipment innovation · Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1440x900",
+  "route": "seedright",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:SeedRIGHT specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "SeedRIGHT planter seed plates — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 144,
+    "y": 3578,
+    "w": 564,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 732,
+    "y": 3578,
+    "w": 564,
+    "h": 175
+   }
+  ],
+  "names": [
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$39:true"
+  ],
+  "mainPrice": [
+   "$39",
+   "$37",
+   "$54",
+   "$46",
+   "$46",
+   "$46",
+   "$46",
+   "$37",
+   "$39",
+   "$54",
+   "$39",
+   "$37"
+  ]
+ },
+ {
+  "vp": "1440x900",
+  "route": "kernel-keeper",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Kernel Keeper specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Kernel Keeper corn-head grain-loss reduction — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 144,
+    "y": 3340,
+    "w": 564,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 732,
+    "y": 3340,
+    "w": 564,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [
+   "$195:true",
+   "$390:true"
+  ],
+  "mainPrice": [
+   "$195",
+   "$390",
+   "$195",
+   "$1,560",
+   "$195",
+   "$390",
+   "$195",
+   "$390"
+  ]
+ },
+ {
+  "vp": "1440x900",
+  "route": "ride-tamer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Ride Tamer specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Ride Tamer zero-turn mower suspension — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 144,
+    "y": 2887,
+    "w": 564,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 732,
+    "y": 2887,
+    "w": 564,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$649:true"
+  ],
+  "mainPrice": [
+   "$649",
+   "$649",
+   "$649"
+  ]
+ },
+ {
+  "vp": "1440x900",
+  "route": "about",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "SPAN:Step 4:"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "About DAVAUS — Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 740,
+    "y": 1153,
+    "w": 266,
+    "h": 113
+   },
+   {
+    "name": "May Wes",
+    "x": 1030,
+    "y": 1153,
+    "w": 266,
+    "h": 113
+   }
+  ],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1440x900",
+  "route": "support",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "H2:Documents and videos"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Support & Resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1440x900",
+  "route": "contact",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [
+   "div.hp -9999→-9998",
+   "label. -9999→-9985",
+   "input. -9999→-9822"
+  ],
+  "offRightN": 3,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Contact & Distributor Inquiries — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   },
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1440x900",
+  "route": "dealer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Dealer resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1440x900",
+  "route": "404",
+  "status": 404,
+  "errs": [
+   "Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "bad": [],
+  "sw": 1440,
+  "vw": 1440,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Page not found — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1280x900",
+  "route": "home",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "DAVAUS — Agricultural equipment innovation · Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1280x900",
+  "route": "seedright",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:SeedRIGHT specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "SeedRIGHT planter seed plates — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 64,
+    "y": 3578,
+    "w": 564,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 652,
+    "y": 3578,
+    "w": 564,
+    "h": 175
+   }
+  ],
+  "names": [
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$39:true"
+  ],
+  "mainPrice": [
+   "$39",
+   "$37",
+   "$54",
+   "$46",
+   "$46",
+   "$46",
+   "$46",
+   "$37",
+   "$39",
+   "$54",
+   "$39",
+   "$37"
+  ]
+ },
+ {
+  "vp": "1280x900",
+  "route": "kernel-keeper",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Kernel Keeper specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Kernel Keeper corn-head grain-loss reduction — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 64,
+    "y": 3340,
+    "w": 564,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 652,
+    "y": 3340,
+    "w": 564,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [
+   "$195:true",
+   "$390:true"
+  ],
+  "mainPrice": [
+   "$195",
+   "$390",
+   "$195",
+   "$1,560",
+   "$195",
+   "$390",
+   "$195",
+   "$390"
+  ]
+ },
+ {
+  "vp": "1280x900",
+  "route": "ride-tamer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Ride Tamer specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Ride Tamer zero-turn mower suspension — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 64,
+    "y": 2887,
+    "w": 564,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 652,
+    "y": 2887,
+    "w": 564,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$649:true"
+  ],
+  "mainPrice": [
+   "$649",
+   "$649",
+   "$649"
+  ]
+ },
+ {
+  "vp": "1280x900",
+  "route": "about",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "SPAN:Step 4:"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "About DAVAUS — Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 660,
+    "y": 1153,
+    "w": 266,
+    "h": 113
+   },
+   {
+    "name": "May Wes",
+    "x": 950,
+    "y": 1153,
+    "w": 266,
+    "h": 113
+   }
+  ],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1280x900",
+  "route": "support",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "H2:Documents and videos"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Support & Resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1280x900",
+  "route": "contact",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [
+   "div.hp -9999→-9998",
+   "label. -9999→-9985",
+   "input. -9999→-9822"
+  ],
+  "offRightN": 3,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Contact & Distributor Inquiries — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   },
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1280x900",
+  "route": "dealer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Dealer resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "1280x900",
+  "route": "404",
+  "status": 404,
+  "errs": [
+   "Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "bad": [],
+  "sw": 1280,
+  "vw": 1280,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Page not found — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "390x844",
+  "route": "home",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "DAVAUS — Agricultural equipment innovation · Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "390x844",
+  "route": "seedright",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [
+   "li. 332→399",
+   "a. 332→399",
+   "li. 421→506",
+   "a. 421→506",
+   "li. 528→552"
+  ],
+  "offRightN": 8,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:SeedRIGHT specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "SeedRIGHT planter seed plates — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 20,
+    "y": 5301,
+    "w": 350,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 20,
+    "y": 5492,
+    "w": 350,
+    "h": 175
+   }
+  ],
+  "names": [
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$39:true"
+  ],
+  "mainPrice": [
+   "$39",
+   "$37",
+   "$54",
+   "$46",
+   "$46",
+   "$46",
+   "$46",
+   "$37",
+   "$39",
+   "$54",
+   "$39",
+   "$37"
+  ]
+ },
+ {
+  "vp": "390x844",
+  "route": "kernel-keeper",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [
+   "li. 332→416",
+   "a. 332→416",
+   "li. 438→507",
+   "a. 438→507",
+   "li. 529→552"
+  ],
+  "offRightN": 8,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Kernel Keeper specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Kernel Keeper corn-head grain-loss reduction — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 20,
+    "y": 4705,
+    "w": 350,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 20,
+    "y": 4896,
+    "w": 350,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [
+   "$195:true",
+   "$390:true"
+  ],
+  "mainPrice": [
+   "$195",
+   "$390",
+   "$195",
+   "$1,560",
+   "$195",
+   "$390",
+   "$195",
+   "$390"
+  ]
+ },
+ {
+  "vp": "390x844",
+  "route": "ride-tamer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [
+   "li. 332→416",
+   "a. 332→416",
+   "li. 438→507",
+   "a. 438→507",
+   "li. 529→552"
+  ],
+  "offRightN": 8,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Ride Tamer specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Ride Tamer zero-turn mower suspension — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 20,
+    "y": 3979,
+    "w": 350,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 20,
+    "y": 4170,
+    "w": 350,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$649:true"
+  ],
+  "mainPrice": [
+   "$649",
+   "$649",
+   "$649"
+  ]
+ },
+ {
+  "vp": "390x844",
+  "route": "about",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "SPAN:Step 4:"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "About DAVAUS — Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 20,
+    "y": 1975,
+    "w": 350,
+    "h": 113
+   },
+   {
+    "name": "May Wes",
+    "x": 20,
+    "y": 2104,
+    "w": 350,
+    "h": 113
+   }
+  ],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "390x844",
+  "route": "support",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "H2:Documents and videos"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Support & Resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "390x844",
+  "route": "contact",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [
+   "div.hp -9999→-9998",
+   "label. -9999→-9986",
+   "input. -9999→-9839"
+  ],
+  "offRightN": 3,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Contact & Distributor Inquiries — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   },
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "390x844",
+  "route": "dealer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Dealer resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "390x844",
+  "route": "404",
+  "status": 404,
+  "errs": [
+   "Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "bad": [],
+  "sw": 390,
+  "vw": 390,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Page not found — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "844x390",
+  "route": "home",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "DAVAUS — Agricultural equipment innovation · Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "844x390",
+  "route": "seedright",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:SeedRIGHT specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "SeedRIGHT planter seed plates — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 24,
+    "y": 4587,
+    "w": 386,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 434,
+    "y": 4587,
+    "w": 386,
+    "h": 175
+   }
+  ],
+  "names": [
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$39:true"
+  ],
+  "mainPrice": [
+   "$39",
+   "$37",
+   "$54",
+   "$46",
+   "$46",
+   "$46",
+   "$46",
+   "$37",
+   "$39",
+   "$54",
+   "$39",
+   "$37"
+  ]
+ },
+ {
+  "vp": "844x390",
+  "route": "kernel-keeper",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Kernel Keeper specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Kernel Keeper corn-head grain-loss reduction — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 24,
+    "y": 4048,
+    "w": 386,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 434,
+    "y": 4048,
+    "w": 386,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [
+   "$195:true",
+   "$390:true"
+  ],
+  "mainPrice": [
+   "$195",
+   "$390",
+   "$195",
+   "$1,560",
+   "$195",
+   "$390",
+   "$195",
+   "$390"
+  ]
+ },
+ {
+  "vp": "844x390",
+  "route": "ride-tamer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "CAPTION:Ride Tamer specifications"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Ride Tamer zero-turn mower suspension — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 24,
+    "y": 3444,
+    "w": 386,
+    "h": 175
+   },
+   {
+    "name": "May Wes",
+    "x": 434,
+    "y": 3444,
+    "w": 386,
+    "h": 175
+   }
+  ],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [
+   "$649:true"
+  ],
+  "mainPrice": [
+   "$649",
+   "$649",
+   "$649"
+  ]
+ },
+ {
+  "vp": "844x390",
+  "route": "about",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "SPAN:Step 1:",
+   "SPAN:Step 2:",
+   "SPAN:Step 3:",
+   "SPAN:Step 4:"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 700",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "About DAVAUS — Hoagland, Indiana",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [
+   {
+    "name": "S.I. Distributing",
+    "x": 24,
+    "y": 1587,
+    "w": 386,
+    "h": 113
+   },
+   {
+    "name": "May Wes",
+    "x": 434,
+    "y": 1587,
+    "w": 386,
+    "h": 113
+   }
+  ],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "844x390",
+  "route": "support",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [
+   "H2:Documents and videos"
+  ],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 500",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Support & Resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "844x390",
+  "route": "contact",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [
+   "div.hp -9999→-9998",
+   "label. -9999→-9985",
+   "input. -9999→-9822"
+  ],
+  "offRightN": 3,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Contact & Distributor Inquiries — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [
+   {
+    "action": null,
+    "method": "get"
+   },
+   {
+    "action": null,
+    "method": "get"
+   }
+  ],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "844x390",
+  "route": "dealer",
+  "status": 200,
+  "errs": [],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600",
+   "Source Sans 3 700"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Dealer resources — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ },
+ {
+  "vp": "844x390",
+  "route": "404",
+  "status": 404,
+  "errs": [
+   "Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "bad": [],
+  "sw": 844,
+  "vw": 844,
+  "offRight": [],
+  "offRightN": 0,
+  "clipped": [],
+  "fonts": [
+   "Raleway 600",
+   "Archivo 800",
+   "Source Sans 3 400",
+   "Source Sans 3 600"
+  ],
+  "h1": "Archivo 800",
+  "brand": "Raleway 600",
+  "body": "Raleway 600",
+  "title": "Page not found — DAVAUS",
+  "leaks": [],
+  "sale": [],
+  "imgs": [],
+  "robots": "noindex, nofollow",
+  "og": {
+   "title": "DAVAUS — Agricultural equipment innovation",
+   "image": "https://squidbay.github.io/davaus-preview/og.jpg?v=1",
+   "url": "https://squidbay.github.io/davaus-preview/",
+   "desc": true,
+   "tw": "summary_large_image",
+   "twimg": "https://squidbay.github.io/davaus-preview/og.jpg?v=1"
+  },
+  "dist": [],
+  "names": [
+   "SeedRIGHT=rgb(28, 27, 24)",
+   "Kernel Keeper=rgb(28, 27, 24)",
+   "Ride Tamer=rgb(28, 27, 24)"
+  ],
+  "forms": [],
+  "ext": [],
+  "prices": [],
+  "mainPrice": []
+ }
+]

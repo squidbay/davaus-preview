@@ -1,0 +1,272 @@
+{
+ "390x844 menu button visible": {
+  "pass": true
+ },
+ "390x844 drawer opens (aria-expanded, focus on close)": {
+  "pass": true,
+  "info": {
+   "focus": "drawer-close"
+  }
+ },
+ "390x844 body scroll locked while open": {
+  "pass": true
+ },
+ "390x844 footer CTA full-width, centered, >=44px": {
+  "pass": true,
+  "info": {
+   "w": 358,
+   "footW": 358,
+   "h": 48,
+   "align": "start",
+   "justify": "center",
+   "text": "Where to buy",
+   "border": "1px"
+  }
+ },
+ "390x844 phone/email not nav rows (no border, inline, >=44px, same line)": {
+  "pass": true,
+  "info": [
+   {
+    "t": "(260) 245-5006",
+    "h": 44,
+    "top": 602,
+    "border": "0px",
+    "display": "inline-flex",
+    "color": "rgb(31, 61, 43)"
+   },
+   {
+    "t": "info@davaus.com",
+    "h": 44,
+    "top": 602,
+    "border": "0px",
+    "display": "inline-flex",
+    "color": "rgb(31, 61, 43)"
+   }
+  ]
+ },
+ "390x844 only separator text between contacts is a single \"·\"": {
+  "pass": true,
+  "info": [
+   "·"
+  ]
+ },
+ "390x844 drawer nav rows >=44px": {
+  "pass": true,
+  "info": 48
+ },
+ "390x844 drawer footer reachable by scrolling": {
+  "pass": true,
+  "info": {
+   "bottom": 646,
+   "vh": 844
+  }
+ },
+ "390x844 focus trapped in drawer after 25 Tabs": {
+  "pass": true
+ },
+ "390x844 close button closes, focus returns to menu": {
+  "pass": true
+ },
+ "390x844 Escape closes, focus returns to menu": {
+  "pass": true
+ },
+ "390x844 \"Where to buy\" closes drawer and lands on #where-to-buy": {
+  "pass": true
+ },
+ "390x844 drawer product link navigates": {
+  "pass": false,
+  "info": "https://squidbay.github.io/davaus-preview/kernel-keeper/?cb=1791990296497#where-to-buy"
+ },
+ "390x844 no JS errors in drawer flow": {
+  "pass": true,
+  "info": []
+ },
+ "844x390 menu button visible": {
+  "pass": true
+ },
+ "844x390 drawer opens (aria-expanded, focus on close)": {
+  "pass": true,
+  "info": {
+   "focus": "drawer-close"
+  }
+ },
+ "844x390 body scroll locked while open": {
+  "pass": true
+ },
+ "844x390 footer CTA full-width, centered, >=44px": {
+  "pass": true,
+  "info": {
+   "w": 812,
+   "footW": 812,
+   "h": 48,
+   "align": "start",
+   "justify": "center",
+   "text": "Where to buy",
+   "border": "1px"
+  }
+ },
+ "844x390 phone/email not nav rows (no border, inline, >=44px, same line)": {
+  "pass": true,
+  "info": [
+   {
+    "t": "(260) 245-5006",
+    "h": 44,
+    "top": 602,
+    "border": "0px",
+    "display": "inline-flex",
+    "color": "rgb(31, 61, 43)"
+   },
+   {
+    "t": "info@davaus.com",
+    "h": 44,
+    "top": 602,
+    "border": "0px",
+    "display": "inline-flex",
+    "color": "rgb(31, 61, 43)"
+   }
+  ]
+ },
+ "844x390 only separator text between contacts is a single \"·\"": {
+  "pass": true,
+  "info": [
+   "·"
+  ]
+ },
+ "844x390 drawer nav rows >=44px": {
+  "pass": true,
+  "info": 48
+ },
+ "844x390 drawer footer reachable by scrolling": {
+  "pass": true,
+  "info": {
+   "bottom": 358,
+   "vh": 390
+  }
+ },
+ "844x390 focus trapped in drawer after 25 Tabs": {
+  "pass": true
+ },
+ "844x390 close button closes, focus returns to menu": {
+  "pass": true
+ },
+ "844x390 Escape closes, focus returns to menu": {
+  "pass": true
+ },
+ "844x390 \"Where to buy\" closes drawer and lands on #where-to-buy": {
+  "pass": true
+ },
+ "844x390 drawer product link navigates": {
+  "pass": false,
+  "info": "https://squidbay.github.io/davaus-preview/kernel-keeper/?cb=1791990296497#where-to-buy"
+ },
+ "844x390 no JS errors in drawer flow": {
+  "pass": true,
+  "info": []
+ },
+ "1440 menu button hidden on desktop": {
+  "pass": true
+ },
+ "1440 Products dropdown opens": {
+  "pass": true
+ },
+ "1440 Products dropdown Escape closes + focus to button": {
+  "pass": true
+ },
+ "body copy uses Source Sans 3": {
+  "pass": true,
+  "info": "\"Source Sans 3\", sans-serif"
+ },
+ "seedright/ \"Buy at May Wes\" reveals not-connected notice, no navigation": {
+  "pass": false,
+  "info": ""
+ },
+ "seedright/ spec caption is sr-only/visually fine": {
+  "pass": true,
+  "info": {
+   "cls": "",
+   "w": 556,
+   "h": 68,
+   "sw": 556,
+   "cw": 556,
+   "ov": "visible",
+   "pos": "static",
+   "clip": "auto"
+  }
+ },
+ "kernel-keeper/ \"Buy at May Wes\" reveals not-connected notice, no navigation": {
+  "pass": false,
+  "info": ""
+ },
+ "kernel-keeper/ spec caption is sr-only/visually fine": {
+  "pass": true,
+  "info": {
+   "cls": "",
+   "w": 1152,
+   "h": 47,
+   "sw": 1152,
+   "cw": 1152,
+   "ov": "visible",
+   "pos": "static",
+   "clip": "auto"
+  }
+ },
+ "ride-tamer/ \"Buy at May Wes\" reveals not-connected notice, no navigation": {
+  "pass": false,
+  "info": ""
+ },
+ "ride-tamer/ spec caption is sr-only/visually fine": {
+  "pass": true,
+  "info": {
+   "cls": "sr-only",
+   "w": 32,
+   "h": 25,
+   "sw": 181,
+   "cw": 32,
+   "ov": "hidden",
+   "pos": "absolute",
+   "clip": "rect(0px, 0px, 0px, 0px)"
+  }
+ },
+ "contact valid submit: no success claim, \"Not sent\" notice, no network send, no navigation": {
+  "pass": true,
+  "info": {
+   "notice": "Not sent — online inquiries aren’t connected yet.",
+   "reqs": [],
+   "fields": [
+    "g-name",
+    "g-email",
+    "g-phone",
+    "g-product",
+    "g-equipment",
+    "message"
+   ]
+  }
+ },
+ "contact entries kept after submit": {
+  "pass": true
+ },
+ "contact empty submit blocked by validation": {
+  "pass": false
+ },
+ "all 17 internal link targets return 200": {
+  "pass": false,
+  "info": [
+   "404 https://squidbay.github.io/davaus-preview/no-such-page/?cb=1791990296497"
+  ]
+ },
+ "non-http links are only tel:/mailto:": {
+  "pass": true,
+  "info": [
+   "tel:+12602455006",
+   "mailto:info@davaus.com"
+  ]
+ },
+ "404 recovery card navigates to Ride Tamer": {
+  "pass": true,
+  "info": "https://squidbay.github.io/davaus-preview/ride-tamer/"
+ },
+ "desktop no JS errors": {
+  "pass": true,
+  "info": []
+ }
+}
