@@ -37,6 +37,9 @@ const OG = {
   alt: 'DAVAUS — Retrofit products for the equipment you already run. SeedRIGHT, Kernel Keeper, Ride Tamer.',
 };
 
+// Browser icons (DAVAUS "D" monogram, browser icon only). Source: favicon.svg + tools/favicon/; bump to bust caches.
+const ICON_V = 1;
+
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 function head({ title, description, root, base }) {
@@ -62,7 +65,11 @@ ${base ? `<base href="${base}">\n` : ''}<title>${esc(title)}</title>
 <meta name="twitter:title" content="${OG.title}">
 <meta name="twitter:description" content="${OG.description}">
 <meta name="twitter:image" content="${OG.image}">
-<link rel="icon" href="data:,">
+<link rel="icon" href="${root}favicon.ico?v=${ICON_V}" sizes="16x16 32x32 48x48">
+<link rel="icon" href="${root}favicon.svg?v=${ICON_V}" type="image/svg+xml">
+<link rel="icon" href="${root}favicon-32.png?v=${ICON_V}" type="image/png" sizes="32x32">
+<link rel="icon" href="${root}favicon-16.png?v=${ICON_V}" type="image/png" sizes="16x16">
+<link rel="apple-touch-icon" href="${root}apple-touch-icon.png?v=${ICON_V}">
 <link rel="preload" href="${root}assets/fonts/archivo-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${root}assets/fonts/source-sans-3-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${root}assets/fonts/raleway-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
