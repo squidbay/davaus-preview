@@ -22,6 +22,7 @@ A static, client-review preview of the proposed DAVAUS website. This is **not** 
 - `assets/css/site.css` — all styling (P2 Field & Foundry tokens and components).
 - `assets/js/site.js` — menu, drawer, FAQ, sticky sub-nav, support filter, payback arithmetic, form validation. No third-party scripts, no tracking, no network requests.
 - `assets/fonts/` — self-hosted WOFF2 files and their SIL Open Font License notices (see `ASSETS.md`).
+- `og.jpg` — the 1200×630 share card shown when the link is pasted into SMS/iMessage, Slack or social. Every page uses the same card, title and description. Source: `tools/og/card.html`; re-render with `tools/og/render.mjs` (system Chrome + `playwright-core`), then bump `?v=` in `tools/build.mjs`.
 - `tools/build.mjs` — generates the nine HTML files from shared header, footer and component templates. Edit it, then run `node tools/build.mjs`.
 - `DESIGN-AUTHORITY.md` — which approved source governs what.
 - `ASSETS.md` — source files, font provenance, and everything still awaiting supply from DAVAUS.

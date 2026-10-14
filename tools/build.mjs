@@ -27,6 +27,16 @@ const PRODUCTS = [
     price: '$649' },
 ];
 
+// One share card for every page (link previews in SMS, iMessage, Slack, social).
+const PREVIEW_URL = 'https://squidbay.github.io/davaus-preview/';
+const OG = {
+  title: 'DAVAUS — Agricultural equipment innovation',
+  description: 'SeedRIGHT, Kernel Keeper and Ride Tamer: retrofit products engineered and built in Hoagland, Indiana.',
+  url: PREVIEW_URL,
+  image: PREVIEW_URL + 'og.jpg?v=1',
+  alt: 'DAVAUS — Retrofit products for the equipment you already run. SeedRIGHT, Kernel Keeper, Ride Tamer.',
+};
+
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 function head({ title, description, root, base }) {
@@ -39,6 +49,19 @@ function head({ title, description, root, base }) {
 ${base ? `<base href="${base}">\n` : ''}<title>${esc(title)}</title>
 <meta name="description" content="${esc(description)}">
 <meta name="theme-color" content="#1F3D2B">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DAVAUS">
+<meta property="og:title" content="${OG.title}">
+<meta property="og:description" content="${OG.description}">
+<meta property="og:url" content="${OG.url}">
+<meta property="og:image" content="${OG.image}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${OG.alt}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${OG.title}">
+<meta name="twitter:description" content="${OG.description}">
+<meta name="twitter:image" content="${OG.image}">
 <link rel="icon" href="data:,">
 <link rel="preload" href="${root}assets/fonts/archivo-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="${root}assets/fonts/source-sans-3-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
