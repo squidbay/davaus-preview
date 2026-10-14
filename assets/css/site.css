@@ -113,11 +113,12 @@ button,input,select,textarea{font:inherit;color:inherit}
 .drawer-close{width:48px;height:48px;border:0;background:none;font-size:22px;cursor:pointer;border-radius:var(--radius)}
 .drawer-body{padding:20px 16px 32px;display:flex;flex-direction:column;gap:4px}
 .drawer-body .eyebrow{margin:12px 0 6px}
-.drawer-body a{display:flex;align-items:center;justify-content:space-between;min-height:48px;padding:0 4px;font:600 18px/1.2 var(--font-body);color:var(--text);text-decoration:none;border-bottom:1px solid var(--border)}
-.drawer-body a.prod{font:800 20px/1.2 var(--font-heading)}
-.drawer-body a .arrow{color:var(--color-accent)}
+.drawer-body>a{display:flex;align-items:center;justify-content:space-between;min-height:48px;padding:0 4px;font:600 18px/1.2 var(--font-body);color:var(--text);text-decoration:none;border-bottom:1px solid var(--border)}
+.drawer-body>a.prod{font:800 20px/1.2 var(--font-heading)}
+.drawer-body>a .arrow{color:var(--color-accent)}
 .drawer-foot{margin-top:20px;display:flex;flex-direction:column;gap:12px;font-size:15px;color:var(--text-muted)}
-.drawer-foot .btn{width:100%}
+.drawer-foot .btn{width:100%;min-height:48px}
+.drawer-foot a:not(.btn){display:inline-flex;align-items:center;min-height:44px;color:var(--color-primary)}
 body.drawer-open{overflow:hidden}
 
 /* Breadcrumb (C14) */
@@ -430,3 +431,4 @@ fieldset.field{border:0;margin:0;padding:0}
   .msrp-price strong{font-size:30px}
 }
 /* Wide desktop: content capped at 1200, type does not scale past 1280 sizes */
+.nf-products strong,.related strong{color:var(--text)}
