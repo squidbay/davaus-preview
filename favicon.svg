@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- DAVAUS "D" monogram (browser icon only; not a logo). Geometry on a 4-unit grid = whole pixels at 16/32/48 px. -->
+  <title>DAVAUS</title>
+  <rect width="64" height="64" rx="10" fill="#1F3D2B"/>
+  <path fill="#F6F4EE" fill-rule="evenodd" d="M16 12H32A16 16 0 0 1 32 44H16ZM24 20V36H32A8 8 0 0 0 32 20Z"/>
+  <rect x="16" y="48" width="32" height="4" fill="#C8842B"/>
+</svg>
