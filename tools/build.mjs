@@ -1,13 +1,28 @@
-// Generates the nine static pages of the DAVAUS client-review preview.
-// Usage: node tools/build.mjs   (writes HTML into the repository root)
+// Generates the nine static pages of the DAVAUS website.
+// Usage: node tools/build.mjs   (preview target: writes HTML into the repository root, as GitHub Pages serves it)
+//        SITE_TARGET=production PUBLIC_ORIGIN=https://<host> [SEARCH_INDEXING=on] node tools/build.mjs
+//        (production target: writes a deployable tree into dist/ and leaves the repository root untouched)
 // Structure follows P1 Wireframe v1.2; styling lives in assets/css/site.css (P2 Field & Foundry).
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { cpSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const OUT = join(dirname(fileURLToPath(import.meta.url)), '..');
-// The 404 page is served by GitHub Pages at arbitrary depths, so it uses the absolute project path.
-const PAGES_BASE = '/davaus-preview/';
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+
+// Two targets from one set of templates. `preview` (the default) is byte-for-byte what GitHub Pages serves today.
+// `production` is the same pages for a host root: no project subpath, a canonical origin, and indexing only when
+// SEARCH_INDEXING=on, so a first deploy to a throwaway hostname stays noindex. The origin is never defaulted.
+const TARGET = process.env.SITE_TARGET || 'preview';
+if (TARGET !== 'preview' && TARGET !== 'production') throw new Error(`SITE_TARGET must be preview or production, got "${TARGET}"`);
+const PRODUCTION = TARGET === 'production';
+const ORIGIN = (process.env.PUBLIC_ORIGIN || '').replace(/\/+$/, '');
+if (PRODUCTION && !/^https:\/\/[a-z0-9]([a-z0-9.-]*[a-z0-9])?$/i.test(ORIGIN)) {
+  throw new Error('production target needs PUBLIC_ORIGIN=https://<host> (scheme and host only)');
+}
+const INDEXING = PRODUCTION && process.env.SEARCH_INDEXING === 'on';
+const OUT = PRODUCTION ? join(ROOT, 'dist') : ROOT;
+// The 404 page is served at arbitrary depths, so it uses the absolute base: the project path on GitHub Pages, / on a host root.
+const PAGES_BASE = PRODUCTION ? '/' : '/davaus-preview/';
 
 const PHONE = '(260) 245-5006';
 const TEL = 'tel:+12602455006';
@@ -28,7 +43,7 @@ const PRODUCTS = [
 ];
 
 // One share card for every page (link previews in SMS, iMessage, Slack, social).
-const PREVIEW_URL = 'https://squidbay.github.io/davaus-preview/';
+const PREVIEW_URL = PRODUCTION ? `${ORIGIN}/` : 'https://squidbay.github.io/davaus-preview/';
 const OG = {
   title: 'DAVAUS — Agricultural equipment innovation',
   description: 'SeedRIGHT, Kernel Keeper and Ride Tamer: retrofit products engineered and built in Hoagland, Indiana.',
@@ -1006,9 +1021,32 @@ const files = {
   'dealer-resources/index.html': dealerResources(),
   '404.html': notFound(),
 };
-for (const [rel, html] of Object.entries(files)) {
+if (PRODUCTION) rmSync(OUT, { recursive: true, force: true });
+for (const [rel, page] of Object.entries(files)) {
+  let html = page;
+  if (PRODUCTION && rel !== '404.html') {
+    const url = `${ORIGIN}${rel === 'index.html' ? '/' : '/' + rel.replace(/index\.html$/, '')}`;
+    html = html.replace(`<meta property="og:url" content="${OG.url}">`, `<meta property="og:url" content="${url}">`)
+      .replace('<title>', `<link rel="canonical" href="${url}">\n<title>`);
+  }
+  if (INDEXING) html = html.replace('<meta name="robots" content="noindex, nofollow">\n', '');
   const file = join(OUT, rel);
   mkdirSync(dirname(file), { recursive: true });
   writeFileSync(file, html);
   console.log('wrote', rel);
+}
+
+if (PRODUCTION) {
+  // Runtime files only: no sources, notes or tools. Cloudflare Pages serves 404.html itself for unknown paths.
+  for (const f of ['assets', 'favicon.ico', 'favicon.svg', 'favicon-16.png', 'favicon-32.png', 'favicon-48.png', 'apple-touch-icon.png', 'og.jpg']) {
+    cpSync(join(ROOT, f), join(OUT, f), { recursive: true });
+  }
+  const pages = Object.keys(files).filter((r) => r !== '404.html').map((r) => (r === 'index.html' ? '/' : '/' + r.replace(/index\.html$/, '')));
+  writeFileSync(join(OUT, 'robots.txt'), INDEXING ? `User-agent: *\nAllow: /\nSitemap: ${ORIGIN}/sitemap.xml\n` : 'User-agent: *\nDisallow: /\n');
+  if (INDEXING) {
+    writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map((u) => `  <url><loc>${ORIGIN}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
+  }
+  // No CSP here: the pages carry inline style attributes, and a policy needs a browser pass before it can be trusted.
+  writeFileSync(join(OUT, '_headers'), `/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: camera=(), microphone=(), geolocation=()\n${INDEXING ? '' : '  X-Robots-Tag: noindex\n'}`);
+  console.log(`production tree: dist/ (${ORIGIN}, indexing ${INDEXING ? 'on' : 'off'})`);
 }
